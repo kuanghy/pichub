@@ -12,7 +12,7 @@ from pathlib import Path
 from argparse import ArgumentParser
 
 
-picbed_uri = "https://raw.githubusercontent.com/kuanghy/kmailbox/master/"
+picbed_uri = "https://raw.githubusercontent.com/kuanghy/pichub/master/"
 
 
 def file_md5(path):
